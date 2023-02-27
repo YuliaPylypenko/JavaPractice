@@ -1,4 +1,4 @@
-package com.softserve.edu7.Passengers;
+package com.softserve.edu07.Passengers;
 
 public class MainPassengers {
     public static void main(String[] args) {
@@ -11,5 +11,8 @@ public class MainPassengers {
         Liner liner = new Liner(500, 3);
         System.out.println("There are " + liner.getPassengers() + " passengers in cruise");
         liner.isSailing();
+
     }
+
+
 }

@@ -1,4 +1,4 @@
-package com.softserve.edu7.Passengers;
+package com.softserve.edu07.Passengers;
 
 public class Bus extends GroundVehicle {
     private String rout;

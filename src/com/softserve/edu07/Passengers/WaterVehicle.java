@@ -1,4 +1,4 @@
-package com.softserve.edu7.Passengers;
+package com.softserve.edu07.Passengers;
 
 abstract class WaterVehicle extends Passengers implements Vehicle{
     public WaterVehicle(int passengers) {

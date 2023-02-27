@@ -1,4 +1,4 @@
-package com.softserve.edu7;
+package com.softserve.edu07;
 
 public interface Payment {
      int calculatePay();
